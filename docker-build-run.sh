@@ -2,7 +2,7 @@
 
 set -xeu
 
-_I_TAG='pkg-dojo'
+_I_TAG='pkg-sphinx'
 BASEPATH=$(cd `dirname $0`; pwd)
 DIREPATH=`echo $BASEPATH | awk -F\/ '{print $NF}'`
 
