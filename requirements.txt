@@ -1,4 +1,3 @@
+cython
 sphinx
 commonmark
-recommonmark
-cloud-sptheme
